@@ -24,6 +24,15 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="asset_index/css/styles.css" rel="stylesheet" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P1TGF200XZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P1TGF200XZ');
+</script>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -111,8 +120,8 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="png_pro/Gudang.png">
-                            <img class="img-fluid" src="png_pro/Gudang.png" alt="Sistem Gudang" />
+                        <a class="portfolio-box" href="png_pro/Gudang.PNG">
+                            <img class="img-fluid" src="png_pro/Gudang.PNG" alt="Sistem Gudang" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Aplikasi</div>
                                 <div class="project-name">Sistem Stok Gudang</div>
@@ -120,8 +129,8 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="png_pro/Percetakan.png">
-                            <img class="img-fluid" src="png_pro/Percetakan.png" alt="Percetakan" />
+                        <a class="portfolio-box" href="png_pro/Percetakan.PNG">
+                            <img class="img-fluid" src="png_pro/Percetakan.PNG" alt="Percetakan" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Aplikasi</div>
                                 <div class="project-name">Percetakan</div>
