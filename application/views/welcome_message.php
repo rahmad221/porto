@@ -45,7 +45,7 @@
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Klien</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -56,12 +56,12 @@
             <div class="container h-100">
                 <div class="row h-100 align-items-center justify-content-center text-center">
                     <div class="col-lg-10 align-self-end">
-                        <h1 class="text-uppercase text-white font-weight-bold">Make Your Application</h1>
+                        <h1 class="text-uppercase text-white font-weight-bold">Join Us</h1>
                         <hr class="divider my-4" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 font-weight-light mb-5">Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!</p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                        <p class="text-white-75 font-weight-light mb-5">NMS Software Bergerak di bidang pengembangan Teknologi Sistem Informasi (TSI) Online Berbasis Web Dan dekstop realtime,serta penyedia jasa perancangan dan pembangunan website.</p>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">MOre Info</a>
                     </div>
                 </div>
             </div>
@@ -71,10 +71,10 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">We've got what you need!</h2>
+                        <h2 class="text-white mt-0">Kami punya apa yang anda butuhkan!</h2>
                         <hr class="divider light my-4" />
-                        <p class="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+                        <p class="text-white-50 mb-4">Bergerak dalam pengembangan Sistem Aplikasi Berbasis Online yang membantu kebutuhan anda dalam mendata dan menghasilkan laporan yang akurat.</p>
+                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Gabung Klien Kami</a>
                     </div>
                 </div>
             </div>
@@ -82,35 +82,35 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container">
-                <h2 class="text-center mt-0">At Your Service</h2>
+                <h2 class="text-center mt-0">Layanan</h2>
                 <hr class="divider my-4" />
                 <div class="row">
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <i class="fas fa-4x fa-gem text-primary mb-4"></i>
                             <h3 class="h4 mb-2">Free Maintenance</h3>
-                            <p class="text-muted mb-0">application are updated regularly to keep them bug free!</p>
+                            <p class="text-muted mb-0">Aplikasi Update Sistem Keamanan dan mengatasi permasalahan Bug</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <i class="fas fa-4x fa-laptop-code text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Up to Date</h3>
-                            <p class="text-muted mb-0">24 hour response</p>
+                            <h3 class="h4 mb-2">Realtime</h3>
+                            <p class="text-muted mb-0">24 jam teknisi</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <i class="fas fa-4x fa-globe text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Quick Access</h3>
-                            <p class="text-muted mb-0">you can access it quickly without problems</p>
+                            <h3 class="h4 mb-2">Access Cepat</h3>
+                            <p class="text-muted mb-0">Access website cepat</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <i class="fas fa-4x fa-heart text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Professionally made</h3>
-                            <p class="text-muted mb-0">Professionally made</p>
+                            <h3 class="h4 mb-2">UI free</h3>
+                            <p class="text-muted mb-0">Tampilan yang memudahkan</p>
                         </div>
                     </div>
                 </div>
@@ -122,10 +122,10 @@
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="png_pro/Gudang.PNG">
-                            <img class="img-fluid" src="png_pro/Gudang.PNG" alt="Sistem Gudang" />
+                            <img class="img-fluid" src="png_pro/kop_insan.PNG" alt="Sistem Gudang" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Aplikasi</div>
-                                <div class="project-name">Sistem Stok Gudang</div>
+                                <div class="project-category text-white-50">Klien</div>
+                                <div class="project-name">Percetakan Insan</div>
                             </div>
                         </a>
                     </div>
@@ -181,7 +181,7 @@
         <section class="page-section bg-dark text-white">
             <div class="container text-center">
                 <h2 class="mb-4">Hubungi Admin NMS Software</h2>
-                <a class="btn btn-light btn-xl" href="http://wa.me/+628112785670">Contact Now</a>
+                <a class="btn btn-light btn-xl" href="http://wa.me/+6282145989882">Contact Now</a>
             </div>
         </section>
         <!-- Contact-->
@@ -197,7 +197,7 @@
                 <div class="row">
                     <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                         <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
-                        <div>+62 811-278-5670</div>
+                        <div>+62 821-4598-9882</div>
                     </div>
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
