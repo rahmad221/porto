@@ -121,8 +121,8 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="png_pro/Gudang.PNG">
-                            <img class="img-fluid" src="png_pro/kop_insan.PNG" alt="Sistem Gudang" />
+                        <a class="portfolio-box" href="png_pro/kop_insan.png">
+                            <img class="img-fluid" src="png_pro/kop_insan.png" alt="Sistem Gudang" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Klien</div>
                                 <div class="project-name">Percetakan Insan</div>
@@ -130,8 +130,8 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="png_pro/Percetakan.PNG">
-                            <img class="img-fluid" src="png_pro/Percetakan.PNG" alt="Percetakan" />
+                        <a class="portfolio-box" href="png_pro/Percetakan.png">
+                            <img class="img-fluid" src="png_pro/kop_insan.png" alt="Percetakan" />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Aplikasi</div>
                                 <div class="project-name">Percetakan</div>
