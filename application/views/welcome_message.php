@@ -130,11 +130,11 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="png_pro/Percetakan.png">
-                            <img class="img-fluid" src="png_pro/kop_insan.png" alt="Percetakan" />
+                        <a class="portfolio-box" href="png_pro/download.png">
+                            <img class="img-fluid" src="png_pro/download.png" alt="Percetakan" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Aplikasi</div>
-                                <div class="project-name">Percetakan</div>
+                                <div class="project-category text-white-50">Klien</div>
+                                <div class="project-name">Posant Cafe</div>
                             </div>
                         </a>
                     </div>
